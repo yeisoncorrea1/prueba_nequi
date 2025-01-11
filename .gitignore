@@ -1,0 +1,6 @@
+# Ignorar carpetas de cache
+AppData/
+.vscode/
+OneDrive/Documentos/Pruebas/Bancolombia/
+*.swp
+.DS_Store
